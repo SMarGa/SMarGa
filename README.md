@@ -16,8 +16,8 @@ Estoy constantemente aprendiendo y explorando nuevas tecnologías y tendencias e
 
 ## 📫 Conéctemos
 
-- **LinkedIn**: [tu-enlace-de-linkedin]([link-a-tu-linkedin](https://www.linkedin.com/in/saúl-martín-garcía-686632246/))
-- **Correo**: [tu-email@example.com](mailto:saulmargar2@gmail.com)
+- **LinkedIn**: [Enlace](https://www.linkedin.com/in/saúl-martín-garcía-686632246/)
+- **Correo**: [saulmargar2@gmail.com](mailto:saulmargar2@gmail.com)
 
 ¡Gracias por visitar mi perfil! Estoy emocionado por las oportunidades de colaboración y aprendizaje en este espacio.
 
