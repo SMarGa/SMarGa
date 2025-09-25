@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Saúl
 
-Soy graduado en **Ingeniería Informática** y actualmente tengo **21 años**. Estoy trabajando como **Ingeniero de Software**, donde disfruto creando soluciones eficientes y escalables.
+Soy graduado en **Ingeniería Informática** y actualmente tengo **22 años**. Estoy trabajando como **Ingeniero de Software**, donde disfruto creando soluciones eficientes y escalables.
 
 ## Tecnologías y Herramientas
 
